@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Random</string>
+    <string name="textview">TextView</string>
+    <string name="random">Random</string>
+    <string name="_0">0</string>
+    <string name="number_1">number 1</string>
+    <string name="number2">number2</string>
+    <string name="nhap_so_thu_1">Nhap so thu 1</string>
+    <string name="nhap_so_thu_2">Nhap so thu 2</string>
+</resources>
